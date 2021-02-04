@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center" >
-  <img src="https://ik.imagekit.io/ik54mxkwpj/Apresenta__o_creditfake_QFBBRiCIX.gif" />
+  <img src="https://ik.imagekit.io/ik54mxkwpj/apresentacaocreditfake_FEuD8EWM6.gif" />
 </h1>
 
 ## 📋 Sobre
